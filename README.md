@@ -1,5 +1,5 @@
 # Web-design
-Some graphics for web design
+Some graphics for web design that I created in Figma.
 
 
 
@@ -12,11 +12,11 @@ Some graphics for web design
 </p>
   
 <p align="center">
-  <img src=".img/ExtremeCrop.png" />
+  <img src="./img/ExtremeCrop.png" />
 </p>
   
 <p align="center">
-  <img src=".img/Hero" />
+  <img src="./img/Hero" />
 </p>
   
 
