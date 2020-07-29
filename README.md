@@ -16,7 +16,7 @@ Some graphics for web design that I created in Figma.
 </p>
   
 <p align="center">
-  <img src="./img/Hero" />
+  <img src="./img/Hero.png" />
 </p>
   
 
