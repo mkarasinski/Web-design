@@ -4,22 +4,20 @@ Some graphics for web design
 
 
 <p align="center">
-  <img src="" />
+  <img src="./img/SoftCrop.png" />
 </p>
   
 <p align="center">
-  <img src="./demo/part_2.gif" />
+  <img src="./img/SoftCropWhite.png" />
 </p>
   
 <p align="center">
-  <img src="./demo/part_3.gif" />
+  <img src=".img/ExtremeCrop.png" />
 </p>
   
 <p align="center">
-  <img src="./demo/part_4.gif" />
+  <img src=".img/Hero" />
 </p>
   
-<p align="center">
-  <img src="./demo/part_5.gif" />
-</p>
+
 
